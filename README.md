@@ -11,7 +11,7 @@ Phaser.io game to test social dominance based on brain circuit stimulation
 ## Installation
 - Make sure you have latest Node version on your computer 
 ```
-git clone https://github.com/cassandrale179/domiannce_game 
+git clone https://github.com/cassandrale179/dominance_game
 npm install phaser 
 ``` 
 
