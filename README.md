@@ -8,6 +8,12 @@ Phaser.io game to test social dominance based on brain circuit stimulation
 - To investigate social competition in laboratory mice, we applied the dominance tube test, which is highly transitive and stable and correlates well with other dominance measures  
 - The purpose of this repo is to recreated a similar game simulation using Phaser.io, but instead of mices, we want to test on human subjects. 
 
+## Installation
+- Make sure you have latest Node version on your computer 
+```
+git clone https://github.com/cassandrale179/domiannce_game 
+npm install phaser 
+``` 
 
 ## Resources
 - History of winning remodels thalamo-PFC circuit to reinforce social dominance: 
